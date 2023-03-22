@@ -2,7 +2,7 @@
 
 查询填写的 Key 的余额。
 
-##根据链接回答
+## 根据链接回答
 
 Instructions: Using the provided web search results,write a comprehensive reply with chinese to the
 given query. Make sure to cite results using [[number](URL)] notation after the reference.
