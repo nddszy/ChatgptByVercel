@@ -2,12 +2,14 @@
 
 查询填写的 Key 的余额。
 
-## 根据链接回答
+## 根据网络资料回复
 
-Instructions: Using the provided web search results,write a comprehensive reply with chinese to the
-given query. Make sure to cite results using [[number](URL)] notation after the reference.
-If the provided search results refer to multiple subjects with the same name,write
-separate answers for each subject.
+请将给定的要求在bing、google等搜索引擎中搜索，并找出与要求内容最相关的数个页面，你不需要列举搜索结果，只需要根据这些网页中的内容，为给定的要求撰写全面的中文回复。请在引用的参考文献后使用[[数字](网页的URL)]标记。如果搜索结果涉及到多个具有相同名称的主题，请为每个主题分别撰写回复。
+要求: 
+
+## 根据链接回复
+
+Instructions: Using the provided web search results,write a comprehensive reply with chinese to the given query. Make sure to cite results using [[number](URL)] notation after the reference. If the provided search results refer to multiple subjects with the same name,write separate answers for each subject.
 [1] ""
 URL: 
 Query: 
